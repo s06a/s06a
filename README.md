@@ -1,4 +1,4 @@
-#### Intrested in:
+#### Interested in:
   - Finance
   - Data Science
   - AI
