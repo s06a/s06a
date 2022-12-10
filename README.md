@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Intrested in:
+  - Finance
+  - Data Science
+  - AI
+
 <!--
 **S06A/S06A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
