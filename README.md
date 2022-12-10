@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Intrested in:
+#### Intrested in:
   - Finance
   - Data Science
   - AI
