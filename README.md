@@ -1,7 +1,9 @@
-#### Interested in:
-  - Finance
-  - Data Science
-  - AI
+# Hi 👋
+
+```python
+name = s06a # :)
+interests = ['Finance', 'Data Science', 'AI', 'time series', 'learning anything']
+```
 
 <!--
 **S06A/S06A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
