@@ -2,7 +2,9 @@
 
 ```python
 name = 's06a'
+
 interests = ['finance', 'data science', 'artificial intelligence', 'time series', 'learning anything']
+
 skills = ['some of this', 'some of that', 'other things']
 ```
 
