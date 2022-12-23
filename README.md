@@ -1,8 +1,9 @@
 # Hi 👋
 
 ```python
-name = s06a # :)
-interests = ['Finance', 'Data Science', 'AI', 'time series', 'learning anything']
+name = 's06a'
+interests = ['finance', 'data science', 'artificial intelligence', 'time series', 'learning anything']
+skills = ['some of this', 'some of that', 'other things']
 ```
 
 <!--
