@@ -3,9 +3,13 @@
 ```python
 name = 's06a'
 
-interests = ['finance', 'data science', 'artificial intelligence', 'time series', 'learning anything']
+overall = {
+  'interests' = ['finance', 'data science', 'artificial intelligence', 'time series', 'learning anything'],
+  'skills' = ['some of this', 'some of that', 'other things'],
+  'tasks' = ['MBA nationwide entrance exam', '...']
+}
 
-skills = ['some of this', 'some of that', 'other things']
+
 ```
 
 <!--
