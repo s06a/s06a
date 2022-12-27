@@ -1,15 +1,11 @@
 # Hi 👋
 
-```python
-
-overall = {
-  'name': 's06a',
-  'interests': ['finance', 'data science', 'artificial intelligence', 'time series', 'learning anything'],
-  'skills': ['some of this', 'some of that', 'other things'],
-  'tasks': ['MBA nationwide entrance exam', '...']
+```javascritp
+{
+  "name":"s06a",
+  "interests":["finance", "time series", "artificial intelligence", "learning anything"],
+  "tasks":["mba enterance exam", "..."]
 }
-
-
 ```
 
 <!--
