@@ -3,7 +3,7 @@
 ```javascritp
 {
   "name":"s06a",
-  "interests":["finance", "time series", "artificial intelligence", "learning anything"],
+  "interests":["finance", "stochastic processes", "time series", "artificial intelligence", "learning anything"],
   "tasks":["mba enterance exam", "..."]
 }
 ```
